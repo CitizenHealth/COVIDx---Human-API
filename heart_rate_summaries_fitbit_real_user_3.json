@@ -1,0 +1,2052 @@
+[
+  {
+    "id": "5e96899e110e9d38e4e41ed0",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-04-14",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 68820,
+        "caloriesBurned": 1848.09
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 13020,
+        "caloriesBurned": 826.62
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 65,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-15T04:12:14.961Z",
+    "updatedAt": "2020-04-15T04:12:14.961Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e95372f2150bdd7d4590338",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-04-13",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 73680,
+        "caloriesBurned": 1987.93
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 10860,
+        "caloriesBurned": 773.27
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 65,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-14T04:08:15.357Z",
+    "updatedAt": "2020-04-15T04:12:15.091Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e93e47cd4585a001a0f37d2",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-04-12",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 79380,
+        "caloriesBurned": 2220.14
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 6420,
+        "caloriesBurned": 457.77
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 64,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-13T04:03:08.218Z",
+    "updatedAt": "2020-04-15T04:12:15.270Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e91ed666b8235aee48c3468",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-04-11",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 73020,
+        "caloriesBurned": 2202.23
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 11760,
+        "caloriesBurned": 1024.16
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 60,
+        "caloriesBurned": 9.47
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 65,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-11T16:16:38.852Z",
+    "updatedAt": "2020-04-15T04:12:15.442Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e91ed666b823567ca8c346d",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-04-10",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 73020,
+        "caloriesBurned": 1952.62
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 9000,
+        "caloriesBurned": 621.66
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 64,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-11T16:16:38.975Z",
+    "updatedAt": "2020-04-15T04:12:15.495Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e91ed676b823554978c3472",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-04-09",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 58680,
+        "caloriesBurned": 1599.25
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 12000,
+        "caloriesBurned": 773.01
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 63,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-11T16:16:39.078Z",
+    "updatedAt": "2020-04-15T04:12:15.588Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e91ed676b823552208c3477",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-04-08",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 79200,
+        "caloriesBurned": 2216.94
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 6780,
+        "caloriesBurned": 440.63
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 65,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-11T16:16:39.198Z",
+    "updatedAt": "2020-04-15T04:12:15.936Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e91ed676b8235366b8c347c",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-04-07",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 77580,
+        "caloriesBurned": 2122.91
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 7980,
+        "caloriesBurned": 583.53
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 120,
+        "caloriesBurned": 22.77
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 64,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-11T16:16:39.282Z",
+    "updatedAt": "2020-04-14T04:08:16.238Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e9293536424a370de636083",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-04-06",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 74400,
+        "caloriesBurned": 1958.76
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 11400,
+        "caloriesBurned": 987.7
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 300,
+        "caloriesBurned": 56.17
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 64,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-12T04:04:36.049Z",
+    "updatedAt": "2020-04-13T04:03:09.044Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e9293536424a30d2363607e",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-04-05",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 74400,
+        "caloriesBurned": 2077.23
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 11040,
+        "caloriesBurned": 883.94
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 120,
+        "caloriesBurned": 20.98
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 480,
+        "caloriesBurned": 113.35
+      }
+    ],
+    "restingHR": 66,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-12T04:04:35.959Z",
+    "updatedAt": "2020-04-13T00:46:14.685Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e93b65675d1ab5b5397f015",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-04-04",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 69240,
+        "caloriesBurned": 1937.4
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 10800,
+        "caloriesBurned": 843.12
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 66,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-13T00:46:14.982Z",
+    "updatedAt": "2020-04-13T00:46:14.982Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e93b65775d1ab37f597f01a",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-04-03",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 57960,
+        "caloriesBurned": 1513.91
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 12000,
+        "caloriesBurned": 628.31
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 300,
+        "caloriesBurned": 57.57
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 240,
+        "caloriesBurned": 59.36
+      }
+    ],
+    "restingHR": 67,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-13T00:46:15.083Z",
+    "updatedAt": "2020-04-13T00:46:15.083Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e93b65775d1ab054e97f01f",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-04-02",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 74520,
+        "caloriesBurned": 1991.64
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 11220,
+        "caloriesBurned": 714.16
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 68,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-13T00:46:15.095Z",
+    "updatedAt": "2020-04-13T00:46:15.095Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e93b65775d1ab6bc097f024",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-04-01",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 64920,
+        "caloriesBurned": 1792.7
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 19320,
+        "caloriesBurned": 1090.3
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 180,
+        "caloriesBurned": 31.73
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 600,
+        "caloriesBurned": 129.48
+      }
+    ],
+    "restingHR": 68,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-13T00:46:15.190Z",
+    "updatedAt": "2020-04-13T00:46:15.190Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e93b65775d1ab09e497f029",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-31",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 63300,
+        "caloriesBurned": 1814.57
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 22260,
+        "caloriesBurned": 1210.7
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 120,
+        "caloriesBurned": 19.45
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 68,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-13T00:46:15.334Z",
+    "updatedAt": "2020-04-13T00:46:15.334Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e93b65775d1ab3d5797f02e",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-30",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 78240,
+        "caloriesBurned": 2177.54
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 7980,
+        "caloriesBurned": 661.32
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 67,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-13T00:46:15.422Z",
+    "updatedAt": "2020-04-13T00:46:15.422Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e945f0675d1ab204c99600b",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-29",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 76680,
+        "caloriesBurned": 1948.01
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 9360,
+        "caloriesBurned": 703.03
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 60,
+        "caloriesBurned": 9.72
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 68,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-13T12:45:58.567Z",
+    "updatedAt": "2020-04-13T12:45:58.567Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e945f0675d1ab515b996010",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-28",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 64380,
+        "caloriesBurned": 1715.68
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 5880,
+        "caloriesBurned": 476.96
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 1140,
+        "caloriesBurned": 203.68
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 67,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-13T12:45:58.682Z",
+    "updatedAt": "2020-04-13T12:45:58.682Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e945f0675d1ab631a996015",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-27",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 69600,
+        "caloriesBurned": 1990.36
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 15780,
+        "caloriesBurned": 1196.11
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 480,
+        "caloriesBurned": 84.7
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 120,
+        "caloriesBurned": 28.91
+      }
+    ],
+    "restingHR": 66,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-13T12:45:58.761Z",
+    "updatedAt": "2020-04-13T12:45:58.761Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e945f0675d1ab228c99601a",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-26",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 74880,
+        "caloriesBurned": 2094.25
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 11460,
+        "caloriesBurned": 762.01
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 66,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-13T12:45:58.876Z",
+    "updatedAt": "2020-04-13T12:45:58.876Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e945f0675d1ab304f99601f",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-25",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 76680,
+        "caloriesBurned": 2133.27
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 8220,
+        "caloriesBurned": 649.17
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 67,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-13T12:45:59.002Z",
+    "updatedAt": "2020-04-13T12:45:59.002Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e945f0775d1abc12c996024",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-24",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 77220,
+        "caloriesBurned": 2182.14
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 7500,
+        "caloriesBurned": 521.1
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 66,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-13T12:45:59.125Z",
+    "updatedAt": "2020-04-13T12:45:59.125Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e945f0775d1abf628996029",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-23",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 59460,
+        "caloriesBurned": 1664.88
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 7560,
+        "caloriesBurned": 533.25
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 120,
+        "caloriesBurned": 22.77
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 66,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-13T12:45:59.191Z",
+    "updatedAt": "2020-04-13T12:45:59.191Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e95072b284bc878172e96a2",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-22",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 54300,
+        "caloriesBurned": 1303.84
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 1500,
+        "caloriesBurned": 113.99
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 67,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-14T00:43:23.880Z",
+    "updatedAt": "2020-04-14T00:43:23.880Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e95072c284bc84c562e96a7",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-21",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 77460,
+        "caloriesBurned": 1930.61
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 8640,
+        "caloriesBurned": 639.57
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 68,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-14T00:43:24.093Z",
+    "updatedAt": "2020-04-14T00:43:24.093Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e95072c284bc8752e2e96ac",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-20",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 70200,
+        "caloriesBurned": 1978.21
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 12600,
+        "caloriesBurned": 838.01
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 69,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-14T00:43:24.300Z",
+    "updatedAt": "2020-04-14T00:43:24.300Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e95072c284bc83c422e96b1",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-19",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 60900,
+        "caloriesBurned": 1657.21
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 24840,
+        "caloriesBurned": 1318.29
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 300,
+        "caloriesBurned": 71.52
+      }
+    ],
+    "restingHR": 71,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-14T00:43:24.492Z",
+    "updatedAt": "2020-04-14T00:43:24.492Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e95072c284bc873102e96b6",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-18",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 52200,
+        "caloriesBurned": 1537.45
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 32820,
+        "caloriesBurned": 1926.14
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 480,
+        "caloriesBurned": 84.31
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 70,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-14T00:43:24.633Z",
+    "updatedAt": "2020-04-14T00:43:24.633Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e95072c284bc81dca2e96bb",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-17",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 70500,
+        "caloriesBurned": 2012.88
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 15540,
+        "caloriesBurned": 939.59
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 68,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-14T00:43:24.616Z",
+    "updatedAt": "2020-04-14T00:43:24.616Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e95072c284bc8fdf72e96c0",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-16",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 64620,
+        "caloriesBurned": 1752.01
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 19860,
+        "caloriesBurned": 1207.24
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 69,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-14T00:43:24.854Z",
+    "updatedAt": "2020-04-14T00:43:24.854Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e95b085284bc804a82ff819",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-15",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 56160,
+        "caloriesBurned": 1455.06
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 19140,
+        "caloriesBurned": 1183.96
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 480,
+        "caloriesBurned": 85.72
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 180,
+        "caloriesBurned": 44.78
+      }
+    ],
+    "restingHR": 71,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-14T12:45:57.945Z",
+    "updatedAt": "2020-04-14T12:45:57.945Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e95b086284bc8dcb92ff81e",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-14",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 69960,
+        "caloriesBurned": 1858.58
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 16320,
+        "caloriesBurned": 1152.74
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 69,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-14T12:45:58.076Z",
+    "updatedAt": "2020-04-14T12:45:58.076Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e95b086284bc81fbd2ff823",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-13",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 75060,
+        "caloriesBurned": 2023.24
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 10380,
+        "caloriesBurned": 682.94
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 60,
+        "caloriesBurned": 8.44
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 69,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-14T12:45:58.200Z",
+    "updatedAt": "2020-04-14T12:45:58.200Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e95b086284bc891332ff828",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-12",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 70920,
+        "caloriesBurned": 2002.64
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 14160,
+        "caloriesBurned": 1040.92
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 60,
+        "caloriesBurned": 11.77
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 68,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-14T12:45:58.353Z",
+    "updatedAt": "2020-04-14T12:45:58.353Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e95b086284bc886f72ff82d",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-11",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 62040,
+        "caloriesBurned": 1731.92
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 22380,
+        "caloriesBurned": 1555.75
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 420,
+        "caloriesBurned": 82.01
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 68,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-14T12:45:58.452Z",
+    "updatedAt": "2020-04-14T12:45:58.452Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e95b086284bc8172d2ff832",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-10",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 71820,
+        "caloriesBurned": 1918.72
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 7740,
+        "caloriesBurned": 495.13
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 180,
+        "caloriesBurned": 34.54
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 68,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-14T12:45:58.527Z",
+    "updatedAt": "2020-04-14T12:45:58.527Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e95b086284bc8329f2ff837",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-09",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 64260,
+        "caloriesBurned": 1777.09
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 19380,
+        "caloriesBurned": 1550.76
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 360,
+        "caloriesBurned": 64.99
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 69,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-14T12:45:58.627Z",
+    "updatedAt": "2020-04-14T12:45:58.627Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e9658a2fe9dbf7785eafad0",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-08",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 67140,
+        "caloriesBurned": 1769.41
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 12360,
+        "caloriesBurned": 954.82
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 60,
+        "caloriesBurned": 9.98
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 660,
+        "caloriesBurned": 154.81
+      }
+    ],
+    "restingHR": 70,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-15T00:43:14.756Z",
+    "updatedAt": "2020-04-15T00:43:14.756Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e9658a2fe9dbfbae7eafad5",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-07",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 67080,
+        "caloriesBurned": 1866.77
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 18240,
+        "caloriesBurned": 1199.82
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 70,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-15T00:43:14.855Z",
+    "updatedAt": "2020-04-15T00:43:14.855Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e9658a2fe9dbf88a7eafada",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-06",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 67440,
+        "caloriesBurned": 1777.09
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 18300,
+        "caloriesBurned": 1076.62
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 71,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-15T00:43:15.041Z",
+    "updatedAt": "2020-04-15T00:43:15.041Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e9658a3fe9dbffa40eafadf",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-05",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 56700,
+        "caloriesBurned": 1509.69
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 25200,
+        "caloriesBurned": 1674.09
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 420,
+        "caloriesBurned": 68.58
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 71,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-15T00:43:15.156Z",
+    "updatedAt": "2020-04-15T00:43:15.156Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e9658a3fe9dbf580ceafae4",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-04",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 56340,
+        "caloriesBurned": 1516.73
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 18780,
+        "caloriesBurned": 1092.99
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 70,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-15T00:43:15.343Z",
+    "updatedAt": "2020-04-15T00:43:15.343Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e9658a3fe9dbfd95feafae9",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-03",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 54120,
+        "caloriesBurned": 1500.1
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 24960,
+        "caloriesBurned": 1727.19
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 70,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-15T00:43:15.397Z",
+    "updatedAt": "2020-04-15T00:43:15.397Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e9658a3fe9dbf20caeafaee",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-02",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 70020,
+        "caloriesBurned": 1898.76
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 15900,
+        "caloriesBurned": 1041.82
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 180,
+        "caloriesBurned": 28.15
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 70,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-15T00:43:15.540Z",
+    "updatedAt": "2020-04-15T00:43:15.540Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e9701ad7f67695d97bb56b5",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-03-01",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 67500,
+        "caloriesBurned": 1693.41
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 16980,
+        "caloriesBurned": 1144.17
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 120,
+        "caloriesBurned": 17.02
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 72,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-15T12:44:29.921Z",
+    "updatedAt": "2020-04-15T12:44:29.921Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e9701ae7f676920e6bb56ba",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-02-29",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 51180,
+        "caloriesBurned": 1356.42
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 15480,
+        "caloriesBurned": 1082.5
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 60,
+        "caloriesBurned": 8.7
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 72,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-15T12:44:30.121Z",
+    "updatedAt": "2020-04-15T12:44:30.121Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e9701ae7f67692c3bbb56bf",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-02-28",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 64080,
+        "caloriesBurned": 1731.54
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 20940,
+        "caloriesBurned": 1255.86
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 60,
+        "caloriesBurned": 9.72
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 72,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-15T12:44:30.426Z",
+    "updatedAt": "2020-04-15T12:44:30.426Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e9701ae7f67694836bb56c9",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-02-27",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 73140,
+        "caloriesBurned": 1942.13
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 13020,
+        "caloriesBurned": 743.59
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 71,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-15T12:44:30.525Z",
+    "updatedAt": "2020-04-15T12:44:30.525Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e9701ae7f676944e8bb56c4",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-02-26",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 71940,
+        "caloriesBurned": 1871.51
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 12180,
+        "caloriesBurned": 866.41
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 780,
+        "caloriesBurned": 147.9
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 70,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-15T12:44:30.526Z",
+    "updatedAt": "2020-04-15T12:44:30.526Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  },
+  {
+    "id": "5e9701ae7f6769eab3bb56ce",
+    "userId": "5e91e8bfddf9e63c196b0432",
+    "date": "2020-02-25",
+    "zones": [
+      {
+        "name": "Out of Range",
+        "max": 93,
+        "min": 30,
+        "duration": 70080,
+        "caloriesBurned": 1927.8
+      },
+      {
+        "name": "Fat Burn",
+        "max": 130,
+        "min": 93,
+        "duration": 15600,
+        "caloriesBurned": 1060.75
+      },
+      {
+        "name": "Cardio",
+        "max": 158,
+        "min": 130,
+        "duration": 0,
+        "caloriesBurned": 0
+      },
+      {
+        "name": "Peak",
+        "max": 220,
+        "min": 158,
+        "duration": 0,
+        "caloriesBurned": 0
+      }
+    ],
+    "restingHR": 70,
+    "source": "54dc427aaa6b4cb7d6202f01",
+    "sourceData": {},
+    "createdAt": "2020-04-15T12:44:30.721Z",
+    "updatedAt": "2020-04-15T12:44:30.721Z",
+    "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+  }
+]

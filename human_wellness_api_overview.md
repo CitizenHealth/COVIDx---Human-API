@@ -27,10 +27,22 @@ queries use that demo data.
 
 Add `|jq --color-output . |less` to more easily process large results on the command line.
 
+
+## Users
+User 1 and user 2 had connected to human API Apple Health (which can be seen in the json data file attachments) and
+ user 3 had connected to human API only Fitbit
+
 ### Heart Rate
 Docs:  https://reference.humanapi.co/reference#heart-rate
 
-Using the command `curl -H "Authorization: Bearer demo" https://api.humanapi.co/v1/human/heart_rate` will output:
+The `https://api.humanapi.co/v1/human/heart_rate` seems to be the most recent data point and 
+`https://api.humanapi.co/v1/human/heart_rate/readings` seems to be multiple points (historical) data starting 
+with the most recent data first (descending order by time, which of the 3 timestamp fields the docs don't seem to say).
+
+#### Single Heart Rate Readings
+Using the command got demo heart rate data
+
+    curl -H "Authorization: Bearer demo" https://api.humanapi.co/v1/human/heart_rate
 
     {
       "id": "550b8a8e834dd16f259683b2",
@@ -46,6 +58,93 @@ Using the command `curl -H "Authorization: Bearer demo" https://api.humanapi.co/
       "humanId": "5dc2527186aaf9de560e5841f1a44bd6"
     }
 
+Using this command get actual user's heart rate data (this is user 2 in the files in
+ this same directory)
+
+    curl -H "Authorization: Bearer <actual token here>" https://api.humanapi.co/v1/human/heart_rate
+  
+    {
+      "id": "5e97a87541de73e324b9fc6e",
+      "userId": "5e932aefe8c4a91fb10c54ac",
+      "timestamp": "2020-04-16T00:28:46.519Z",
+      "tzOffset": "-05:00",
+      "value": 55,
+      "unit": "bpm",
+      "source": "5541a9678e7192cb4fb34fed",
+      "sourceData": {
+        "sampleType": "HKQuantityTypeIdentifierHeartRate",
+        "originalSource": "com.apple.health"
+      },
+      "createdAt": "2020-04-16T00:36:05.404Z",
+      "updatedAt": "2020-04-16T00:36:05.404Z",
+      "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+    }
+
+    
+#### Heart Rate Readings
+These commands were used to generate the files of example data
+
+    curl -H "Authorization: Bearer demo" https://api.humanapi.co/v1/human/heart_rate/readings |jq
+     . >heart_rate_readings_demo_user.json
+
+    curl -H "Authorization: Bearer <actual token here>" https://api.humanapi.co/v1/human/heart_rate/readings |jq
+     . >heart_rate_readings_apple-health_real_user_1.json
+     
+    curl -H "Authorization: Bearer <actual token here>" https://api.humanapi.co/v1/human/heart_rate/readings |jq
+    . >heart_rate_readings_apple-health_real_user_2.json
+
+User 3 (had only connected a fitbit) and the heart_rate/readings returned empty list
+
+#### Heart Rate Summaries
+
+    curl -H "Authorization: Bearer <actual token here>" https://api.humanapi.co/v1/human/heart_rate/summaries |jq . >heart_rate_readings_fitbit_summaries_real_user_3.json
+    
+Summaries were not returned for user 1 and 2 (Apple Health source connected only), empty lists were returned.
+
+One example of a single summary from user 3 (Fitbit source connected only) can be seen here (see file heart_rate_summaries_fitbit_real_user_3.json
+for full list of data returned):
+
+      {
+        "id": "5e91ed666b8235aee48c3468",
+        "userId": "5e91e8bfddf9e63c196b0432",
+        "date": "2020-04-11",
+        "zones": [
+          {
+            "name": "Out of Range",
+            "max": 93,
+            "min": 30,
+            "duration": 73020,
+            "caloriesBurned": 2202.23
+          },
+          {
+            "name": "Fat Burn",
+            "max": 130,
+            "min": 93,
+            "duration": 11760,
+            "caloriesBurned": 1024.16
+          },
+          {
+            "name": "Cardio",
+            "max": 158,
+            "min": 130,
+            "duration": 60,
+            "caloriesBurned": 9.47
+          },
+          {
+            "name": "Peak",
+            "max": 220,
+            "min": 158,
+            "duration": 0,
+            "caloriesBurned": 0
+          }
+        ],
+        "restingHR": 65,
+        "source": "54dc427aaa6b4cb7d6202f01",
+        "sourceData": {},
+        "createdAt": "2020-04-11T16:16:38.852Z",
+        "updatedAt": "2020-04-15T04:12:15.442Z",
+        "humanId": "15a86c6f8d63280fdca7784397b8b1ec"
+      }
 
 ### Body Temperature
 
@@ -92,3 +191,5 @@ Docs: https://reference.humanapi.co/reference#locations
         "humanId": "5dc2527186aaf9de560e5841f1a44bd6"
       }
     ]
+    
+Note that user 1, 2 (apple health), nor user 3 (fitbit) returned ANY locations (all empty lists returned)

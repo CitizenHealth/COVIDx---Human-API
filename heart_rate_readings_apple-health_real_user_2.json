@@ -1,0 +1,802 @@
+[
+  {
+    "id": "5e97a87541de73e324b9fc6e",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-16T00:28:46.519Z",
+    "tzOffset": "-05:00",
+    "value": 55,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-16T00:36:05.404Z",
+    "updatedAt": "2020-04-16T00:36:05.404Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97a87541de732a4fb9fc64",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-16T00:24:26.519Z",
+    "tzOffset": "-05:00",
+    "value": 62,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-16T00:36:05.319Z",
+    "updatedAt": "2020-04-16T00:36:05.319Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97a87541de73f7eeb9fc78",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-16T00:14:51.519Z",
+    "tzOffset": "-05:00",
+    "value": 67,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-16T00:36:05.458Z",
+    "updatedAt": "2020-04-16T00:36:05.458Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97a87541de73cf5bb9fc66",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-16T00:10:08.519Z",
+    "tzOffset": "-05:00",
+    "value": 61,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-16T00:36:05.326Z",
+    "updatedAt": "2020-04-16T00:36:05.326Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97a87541de735c6db9fc68",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-16T00:06:04.761Z",
+    "tzOffset": "-05:00",
+    "value": 65,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-16T00:36:05.382Z",
+    "updatedAt": "2020-04-16T00:36:05.382Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97a87541de737186b9fc62",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-16T00:03:44.761Z",
+    "tzOffset": "-05:00",
+    "value": 65,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-16T00:36:05.376Z",
+    "updatedAt": "2020-04-16T00:36:05.376Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97a87541de730497b9fc6c",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-16T00:01:07.183Z",
+    "tzOffset": "-05:00",
+    "value": 75,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-16T00:36:05.449Z",
+    "updatedAt": "2020-04-16T00:36:05.449Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97a87541de73c397b9fc76",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T23:56:54.542Z",
+    "tzOffset": "-05:00",
+    "value": 75,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-16T00:36:05.550Z",
+    "updatedAt": "2020-04-16T00:36:05.550Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97a87541de73556bb9fc70",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T23:54:23.542Z",
+    "tzOffset": "-05:00",
+    "value": 75,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-16T00:36:05.398Z",
+    "updatedAt": "2020-04-16T00:36:05.398Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97a87541de73431bb9fc7a",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T23:46:57.542Z",
+    "tzOffset": "-05:00",
+    "value": 73,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-16T00:36:05.481Z",
+    "updatedAt": "2020-04-16T00:36:05.481Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97a87541de73a4c2b9fc6a",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T23:43:44.542Z",
+    "tzOffset": "-05:00",
+    "value": 74,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-16T00:36:05.450Z",
+    "updatedAt": "2020-04-16T00:36:05.450Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97a87541de735821b9fc72",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T23:37:15.042Z",
+    "tzOffset": "-05:00",
+    "value": 72,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-16T00:36:05.471Z",
+    "updatedAt": "2020-04-16T00:36:05.471Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97a87541de737d43b9fc74",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T23:30:43.543Z",
+    "tzOffset": "-05:00",
+    "value": 72,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-16T00:36:05.547Z",
+    "updatedAt": "2020-04-16T00:36:05.547Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6302694deb3f7dc3be",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T23:22:57.296Z",
+    "tzOffset": "-05:00",
+    "value": 58,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.043Z",
+    "updatedAt": "2020-04-15T23:36:04.043Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6302694dd2847dc3ce",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T23:17:54.795Z",
+    "tzOffset": "-05:00",
+    "value": 61,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.153Z",
+    "updatedAt": "2020-04-15T23:36:04.153Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6302694d0e377dc3cc",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T23:14:30.294Z",
+    "tzOffset": "-05:00",
+    "value": 69,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.080Z",
+    "updatedAt": "2020-04-15T23:36:04.080Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6302694dda197dc3c6",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T23:07:27.294Z",
+    "tzOffset": "-05:00",
+    "value": 62,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.056Z",
+    "updatedAt": "2020-04-15T23:36:04.056Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6402694d9d587dc3d2",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T23:01:49.794Z",
+    "tzOffset": "-05:00",
+    "value": 67,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.151Z",
+    "updatedAt": "2020-04-15T23:36:04.151Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6402694d2f477dc3d8",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T22:56:59.794Z",
+    "tzOffset": "-05:00",
+    "value": 65,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.153Z",
+    "updatedAt": "2020-04-15T23:36:04.153Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6302694d0a7a7dc3c2",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T22:53:16.794Z",
+    "tzOffset": "-05:00",
+    "value": 60,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.053Z",
+    "updatedAt": "2020-04-15T23:36:04.053Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6402694d82547dc3da",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T22:48:14.295Z",
+    "tzOffset": "-05:00",
+    "value": 74,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.149Z",
+    "updatedAt": "2020-04-15T23:36:04.149Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6402694d38e77dc3d4",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T22:44:40.295Z",
+    "tzOffset": "-05:00",
+    "value": 63,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.155Z",
+    "updatedAt": "2020-04-15T23:36:04.155Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6302694d0e7c7dc3ca",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T22:36:34.795Z",
+    "tzOffset": "-05:00",
+    "value": 60,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.063Z",
+    "updatedAt": "2020-04-15T23:36:04.063Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6302694dfca07dc3c8",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T22:31:38.295Z",
+    "tzOffset": "-05:00",
+    "value": 58,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.065Z",
+    "updatedAt": "2020-04-15T23:36:04.065Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6402694dca297dc3d6",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T22:26:36.295Z",
+    "tzOffset": "-05:00",
+    "value": 59,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.158Z",
+    "updatedAt": "2020-04-15T23:36:04.158Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6302694dace67dc3d0",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T22:24:06.295Z",
+    "tzOffset": "-05:00",
+    "value": 59,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.149Z",
+    "updatedAt": "2020-04-15T23:36:04.149Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6402694d04827dc3dc",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T22:19:42.295Z",
+    "tzOffset": "-05:00",
+    "value": 57,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.151Z",
+    "updatedAt": "2020-04-15T23:36:04.151Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6302694d5d1a7dc3c4",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T22:13:28.295Z",
+    "tzOffset": "-05:00",
+    "value": 69,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.061Z",
+    "updatedAt": "2020-04-15T23:36:04.061Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6302694d69177dc3c0",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T22:06:35.795Z",
+    "tzOffset": "-05:00",
+    "value": 58,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.043Z",
+    "updatedAt": "2020-04-15T23:36:04.043Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e979a6302694d85c07dc3bc",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T22:00:43.295Z",
+    "tzOffset": "-05:00",
+    "value": 60,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T23:36:04.019Z",
+    "updatedAt": "2020-04-15T23:36:04.019Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e978a64e625da0010e29f95",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T21:56:46.983Z",
+    "tzOffset": "-05:00",
+    "value": 60,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T22:27:48.849Z",
+    "updatedAt": "2020-04-15T22:27:48.849Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e978a64e625da2f13e29f8b",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T21:50:50.482Z",
+    "tzOffset": "-05:00",
+    "value": 60,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T22:27:48.745Z",
+    "updatedAt": "2020-04-15T22:27:48.745Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e978a64e625da262ae29f87",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T21:45:20.483Z",
+    "tzOffset": "-05:00",
+    "value": 59,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T22:27:48.746Z",
+    "updatedAt": "2020-04-15T22:27:48.746Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e978a64e625dadca8e29f89",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T21:43:01.484Z",
+    "tzOffset": "-05:00",
+    "value": 57,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T22:27:48.749Z",
+    "updatedAt": "2020-04-15T22:27:48.749Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e978a64e625da1059e29f99",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T21:35:51.717Z",
+    "tzOffset": "-05:00",
+    "value": 54,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T22:27:48.848Z",
+    "updatedAt": "2020-04-15T22:27:48.848Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e978a64e625da001ee29f8f",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T21:30:02.717Z",
+    "tzOffset": "-05:00",
+    "value": 58,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T22:27:48.748Z",
+    "updatedAt": "2020-04-15T22:27:48.748Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e978a64e625dab083e29f85",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T21:28:05.716Z",
+    "tzOffset": "-05:00",
+    "value": 58,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T22:27:48.744Z",
+    "updatedAt": "2020-04-15T22:27:48.744Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e978a64e625dad600e29f93",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T21:21:33.213Z",
+    "tzOffset": "-05:00",
+    "value": 60,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T22:27:48.848Z",
+    "updatedAt": "2020-04-15T22:27:48.848Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e978a64e625da90b7e29f8d",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T21:19:25.713Z",
+    "tzOffset": "-05:00",
+    "value": 59,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T22:27:48.746Z",
+    "updatedAt": "2020-04-15T22:27:48.746Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e978a64e625da3409e29f91",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T21:13:43.213Z",
+    "tzOffset": "-05:00",
+    "value": 60,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T22:27:48.747Z",
+    "updatedAt": "2020-04-15T22:27:48.747Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e978a64e625dae468e29f97",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T21:04:59.712Z",
+    "tzOffset": "-05:00",
+    "value": 58,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T22:27:48.850Z",
+    "updatedAt": "2020-04-15T22:27:48.850Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e978a64e625da7133e29f83",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T21:03:39.712Z",
+    "tzOffset": "-05:00",
+    "value": 54,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T22:27:48.749Z",
+    "updatedAt": "2020-04-15T22:27:48.749Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97787b41de73783db88a52",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T20:59:05.712Z",
+    "tzOffset": "-05:00",
+    "value": 60,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T21:11:24.046Z",
+    "updatedAt": "2020-04-15T21:11:24.046Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97787c41de732d2fb88a64",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T20:52:54.212Z",
+    "tzOffset": "-05:00",
+    "value": 59,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T21:11:24.362Z",
+    "updatedAt": "2020-04-15T21:11:24.362Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97787c41de736c65b88a56",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T20:49:31.212Z",
+    "tzOffset": "-05:00",
+    "value": 59,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T21:11:24.147Z",
+    "updatedAt": "2020-04-15T21:11:24.147Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97787c41de737bb6b88a74",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T20:39:59.712Z",
+    "tzOffset": "-05:00",
+    "value": 59,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T21:11:24.456Z",
+    "updatedAt": "2020-04-15T21:11:24.456Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97787c41de73565fb88a5e",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T20:37:11.712Z",
+    "tzOffset": "-05:00",
+    "value": 60,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T21:11:24.345Z",
+    "updatedAt": "2020-04-15T21:11:24.345Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97787c41de7310f1b88a6c",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T20:34:09.712Z",
+    "tzOffset": "-05:00",
+    "value": 61,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T21:11:24.359Z",
+    "updatedAt": "2020-04-15T21:11:24.359Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97787c41de73c260b88a72",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T20:29:37.212Z",
+    "tzOffset": "-05:00",
+    "value": 61,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T21:11:24.451Z",
+    "updatedAt": "2020-04-15T21:11:24.451Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  },
+  {
+    "id": "5e97787b41de738cc3b88a50",
+    "userId": "5e932aefe8c4a91fb10c54ac",
+    "timestamp": "2020-04-15T20:22:35.712Z",
+    "tzOffset": "-05:00",
+    "value": 62,
+    "unit": "bpm",
+    "source": "5541a9678e7192cb4fb34fed",
+    "sourceData": {
+      "sampleType": "HKQuantityTypeIdentifierHeartRate",
+      "originalSource": "com.apple.health"
+    },
+    "createdAt": "2020-04-15T21:11:24.051Z",
+    "updatedAt": "2020-04-15T21:11:24.051Z",
+    "humanId": "9cdbc8ba22164289a60aed8ebca2294f"
+  }
+]
