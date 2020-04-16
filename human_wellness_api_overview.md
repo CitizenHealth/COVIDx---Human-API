@@ -28,6 +28,46 @@ queries use that demo data.
 Add `|jq --color-output . |less` to more easily process large results on the command line.
 
 
+## Getting Bearer token for actual users
+
+Documentation on creating a token for the data api can be found at the very bottom of https://reference.humanapi.co/docs/web-guide
+most of the info at the top is not related to calling the Data API and is for other use cases (such as connecting 
+a user's wearable via your app).  In these cases the portal was used to create the users and the links were manually
+emailed to users to complete the connection of their wearables.  This works for testing but obviously in a real
+ application the user must be able to connect their wearable fully self-serve via the app.
+
+A request such as the following must be made to generate a token for a specific user.
+All values come from `https://portal.humanapi.co/`.  Login to portal and click the Citizen_Health app.
+* Click the gear icon on left after logging in to get:
+    * client_id
+    * client_secret
+* Click the users icon on left to get:
+    * client_user_id - this is the value in the "UNIQUE ID" column, each user has a different value.
+
+
+    POST https://auth.humanapi.co/v1/connect/token HTTP/1.1
+    Content-Type: application/json
+    Cache-Control: no-cache
+    
+    {
+      "client_id"      : "{{client_id}}",
+      "client_user_id" : "{{client_user_id}}",
+      "client_secret"  : "{{client_secret}}",
+      "type"           : "access"
+    }
+    
+The response if successful will look like:
+
+    {
+      "access_token": "token here",
+      "expires_in": 86400,
+      "token_type": "Bearer",
+      "refresh_token": "atrt-xbFx9IiL4dhhJpYE8uu_oghfxdWC2bo9EEb_e6eLKYI"
+    }
+    
+If you wish to make API requests for different users you must use the above to generate a token for each user and then
+use the appropriate user token when making the Data API requests.
+
 ## Users
 User 1 and user 2 had connected to human API Apple Health (which can be seen in the json data file attachments) and
  user 3 had connected to human API only Fitbit
